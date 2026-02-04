@@ -5,5 +5,6 @@ Ceci est mon répertoire personnel GitHub.
 
 ## Mes images
 
-![Image 1](images/nom_image1.png)
+![Image 1](.jpeg)
 ![Image 2](images/nom_image2.jpg)
+
